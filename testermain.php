@@ -20,12 +20,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     </style>
 </head>
 <body>
-    <h1 class="my-5">Hi, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b>. Welcome to our site.</h1>
+    <h1 class="my-5">Hi, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b>. Welcome to the test stats site.</h1>
     <p>
         <a href="reset-password.php" class="btn btn-warning">Reset Your Password</a>
         <a href="logout.php" class="btn btn-danger ml-3">Sign Out of Your Account</a>
-        <a href="betatesting.php" class="btn btn-warning">Beta Stats</a>
-        <a href="LStats.php" class="btn btn-warning">L Stats/gets toxicggpe stats</a>
+        <a href="stats.php" class="btn btn-warning">Player Stats</a>
     </p>
 </body>
 </html>
