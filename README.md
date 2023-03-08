@@ -37,3 +37,6 @@ The Tester is a full off testing area which includes the files,
 3. change the css and stuff as you wish.
 # Open-Source
 This is a open-source website so feel free to edit what ever u want.
+# Donate
+Support me by sending any amount of money, this will also help me to keep on working
+on this project & improve it
