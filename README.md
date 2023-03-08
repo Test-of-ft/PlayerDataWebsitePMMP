@@ -4,6 +4,20 @@ A specific website to make a stats website for pocketmine
 this is just a basic example of how our regular pocketmine websites get stats
 but this is a bit weeker and bad
 This is used using PHP & Mysql
+# Preview
+TesterMain.php
+![alt text](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/main.jpg?raw=true)
+
+TesterLogin.php
+![alt text](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/login.jpg?raw=true)
+
+TesterRegister.php
+![alt text](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/register.jpg?raw=true)
+
+Stats.php
+![alt text](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/stats.jpg?raw=true)
+# Other
+The Mysql data makes table && database in the PlayerlyAPI!
 # Features
 - [X] Supports Mysql (could do nothing without it)
 - [X] Login & Register System (to get stats from the name given)
