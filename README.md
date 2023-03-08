@@ -6,16 +6,16 @@ but this is a bit weeker and bad
 This is used using PHP & Mysql
 # Preview
 TesterMain.php
-![MainPic](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/images/main.jpg?raw=true)
+![MainPic](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/images/main.png?raw=true)
 
 TesterLogin.php
-![LoginPic](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/images/login.jpg?raw=true)
+![LoginPic](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/images/login.png?raw=true)
 
 TesterRegister.php
-![RegisterPic](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/images/register.jpg?raw=true)
+![RegisterPic](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/images/register.png?raw=true)
 
 Stats.php
-![StatsPIC](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/images/stats.jpg?raw=true)
+![StatsPIC](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/images/stats.png?raw=true)
 # Other
 The Mysql data makes table && database in the PlayerlyAPI!
 # Features
