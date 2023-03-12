@@ -3,7 +3,7 @@ A specific website to make a stats website for pocketmine
 **Warning:**
 this is just a basic example of how our regular pocketmine websites get stats
 but this is a bit weeker and bad
-This is used using PHP & Mysql
+This is used using PHP & Mysql if not working in the feature it will also be helped using PDO
 # Preview
 TesterMain.php
 ![MainPic](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/images/main.png?raw=true)
@@ -17,14 +17,16 @@ TesterRegister.php
 Stats.php
 ![StatsPIC](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/images/stats.png?raw=true)
 # Other
-The Mysql data makes table && database in the PlayerlyAPI!
+The Mysql Table is created in the Plugin (playerlyAPI)
 # Features
 - [X] Supports Mysql (could do nothing without it)
 - [X] Login & Register System (to get stats from the name given)
 - [X] Stats from in game
 - [ ] PDO (mabye:/ if it aint working good)
+- [ ] Microsoft Login (rather login and enter username, login using Microsoft and gets the name of the Microsoft account)
+- [ ] Player Skin shown by stats (by name)
 # Tester
-The Tester is a full off testing area which includes the files,
+The Tester is a series of files for testing login system
 - Testerdb (testerdb, is where the database connection is taking place for all other testerfiles)
 - TesterLogin (testerlogin, is where you have to login if you already made an account)
 - TesterMain (testermain, the main section of tester, you can access reset or unlogin also beta stats (get player stats by the username that have set in login) or stats (get only one player stat which is the one selected in the string, if does not exist or some type of error has occur it will return N/A))
