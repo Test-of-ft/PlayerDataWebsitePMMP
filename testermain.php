@@ -23,8 +23,8 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <h1 class="my-5">Hi, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b>. Welcome to the test stats site.</h1>
     <p>
         <a href="reset-password.php" class="btn btn-warning">Reset Your Password</a>
-        <a href="logout.php" class="btn btn-danger ml-3">Sign Out of Your Account</a>
-        <a href="stats.php" class="btn btn-warning">Player Stats</a>
+        <a href="login.php" class="btn btn-danger ml-3">Login</a>
+        <a href="stats.php" class="btn btn-warning">Your Stats</a>
     </p>
 </body>
 </html>
