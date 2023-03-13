@@ -10,7 +10,7 @@ include 'config.php';
 include 'microsoft-login.php';
 
 $username = getGamerTag();
-$result = mysqli_query($conn, "SELECT * FROM users WHERE username='$username'");
+$result = mysqli_query($conn, "SELECT * FROM stats WHERE username='$username'");
 
 // check for query execution errors
 if (!$result) {
