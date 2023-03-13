@@ -1,9 +1,10 @@
-# PlayerDataWebsitePMMP
-A specific website to make a stats website for pocketmine
-**Warning:**
-this is just a basic example of how our regular pocketmine websites get stats
-but this is a bit weeker and bad
-This is used using PHP & Mysql if not working in the feature it will also be helped using PDO
+# PlayerData Warning
+All of this code is a test and must be tested before use
+
+If you want to know how to create a clientid & stuff, ill show in soon video
+just stay tuned at: to know when ill make the video on how to
+
+https://www.youtube.com/channel/UCE3xPElcDuhOmIB64Zwrjsg
 # Preview
 TesterMain.php
 ![MainPic](https://github.com/ItsToxicGG/PlayerDataWebsitePMMP/blob/main/images/main.png?raw=true)
