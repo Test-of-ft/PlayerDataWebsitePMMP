@@ -1,14 +1,14 @@
 <?php
 
-$servername = "localhost";
-$username = "stats";
-$password = "";
+$servername = "panel.taitanmc.fun";
+$username = "u19_WRoQJxaSjJ";
+$password = "bfobTDn!5Imgz9=Bv=UDKjNs";
 $dbname = "stats";
 
 // Create connection #1
 $conn = new mysqli($servername, $username, $password, $dbname);
 
-// Check connection #2
+// Check con
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
